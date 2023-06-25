@@ -13,7 +13,9 @@ The goal of this project is to build a machine learning model that can predict t
 Further Information:
 
 Data Source: www.kaggle.com
+
 Link: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+
 Number of Datasets:
 - First Dataset: 438,557 rows × 18 columns
 - Second Dataset: 1,048,575 rows × 3 columns
