@@ -1,6 +1,5 @@
-Midterm Project
 
-Members:
+Authors:
 - Anaswara Vijayan
 - Geneva Uy
 
